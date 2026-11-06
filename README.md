@@ -1,4 +1,4 @@
-# edw-orchestration-2 · Writers' Room
+# edw-ensemble-2 · Writers' Room
 
 A six-agent cooperative orchestration demo. Six LLM writers sit around a round
 table with a flower pot blocking across-the-table whispers. Each round:
